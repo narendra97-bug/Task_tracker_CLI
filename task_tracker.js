@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 
 const tasks=[]
 let updateTime=new Date().toLocaleString()
